@@ -71,7 +71,7 @@ p {
         color: rgb(224, 71, 15);
 }
 
-    @media(max-width:1000px) {
+   /* @media(max-width:1000px) {
         body {
             background: url(https://picsum.photos/1600/900);
             
@@ -137,4 +137,4 @@ p {
             display: flex;
             gap: 20px;
         }
-    }
+    }*/
